@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Daleplay">
-	<channel id="0">
-		<display-name>PE| KARIBEÑA TV HD</display-name>
-		<icon src="http://daleplay.club:80/images/6RmS4EhK-yrduVUs0EHjhyfo_7qQcFjdGZNi4zw7ZjG7_hF44aOAZ9xmfdvP5PXxf6XeCJBl9hJC1B_gEYuHIxVWa7YCP_0vYhvffmHc9Ik.png" />
-	</channel>
-	<channel id="0">
+        <channel id="0">
 		<display-name>PE| NATIVA HD</display-name>
 		<icon src="http://daleplay.club:80/images/6RmS4EhK-yrduVUs0EHjhyfo_7qQcFjdGZNi4zw7ZjGFtod7In3eAN8EsggGtFUpw-4dCTEt7KyV0SV5dwJAyBnc5ietDqWRe50zkagEc9w.png" />
 	</channel>
